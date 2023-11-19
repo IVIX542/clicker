@@ -1,0 +1,37 @@
+body{
+    background-color: aqua;
+    font-family: Roboto, sans-serif;
+    color: white;
+}
+
+.main{
+    text-align: center;
+}
+
+.count{
+    background-color: lightgreen;
+    font-size: 125px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.btn{
+    background-color: limegreen;
+    font-size: 50px;
+    margin: 150px 0 75px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.btn:hover{
+    background-color: green;
+}
+
+.cps{
+    background-color: gold;
+    font-size: 25px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.cps:hover{
+    background-color: goldenrod;
+}
